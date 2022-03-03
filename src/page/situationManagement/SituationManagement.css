@@ -1,0 +1,17 @@
+.situationManagement{
+
+    flex:4;
+   
+}
+
+.situationManagementWidgets{
+    display: flex;
+    flex-direction: row;
+    margin: 40px;
+}
+
+.container{
+    flex:4;
+    display: flex;
+    margin-top: 10px;
+}
